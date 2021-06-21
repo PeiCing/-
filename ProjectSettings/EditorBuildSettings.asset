@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/Login.unity
+    guid: 945f95c9371340c40b5aa7aee11bd6be
+  - enabled: 1
+    path: Assets/scene/Language.unity
+    guid: 03105f9074c731147bb214c972bc46a2
+  - enabled: 1
+    path: Assets/scene/ch2/L2MenuCH.unity
+    guid: 841e42182e05a674f8c8a2aeee5f576f
+  - enabled: 1
+    path: Assets/scene/ch2/core/L1CoreBuildCN.unity
+    guid: f9c92ada94ef71c40845a1b26a230805
+  - enabled: 1
+    path: Assets/scene/ch2/core/L1CoreScanCN.unity
+    guid: 97ca2680e300f9341826dfeb22971e89
+  - enabled: 1
+    path: Assets/scene/ch2/core/L1CoreWhackCN.unity
+    guid: 7154d2da4d9215f42bdb919e02d19606
+  - enabled: 1
+    path: Assets/scene/ch2/L3MenuCH.unity
+    guid: 42ab6e6b92ffd094894100365e909318
+  - enabled: 1
+    path: Assets/scene/ch2/MenuArmCh.unity
+    guid: fd0987ee922baf2439f123526a72f0b7
+  - enabled: 1
+    path: Assets/scene/ch2/menuCN.unity
+    guid: 09ad4b47af1b20846b27ed594728a948
+  - enabled: 1
+    path: Assets/scene/ch2/leg/L1LegBuildCN.unity
+    guid: 1c3606e30af49a94a95774ea2acd175d
+  - enabled: 1
+    path: Assets/scene/ch2/leg/L1LegScanCN.unity
+    guid: 6a3bc505154883749b22ac7b56f65959
+  - enabled: 1
+    path: Assets/scene/ch2/leg/L1LegWhackCN.unity
+    guid: c74e1d49c37aee64ab824c891f2c10ec
+  - enabled: 1
+    path: Assets/scene/ENG/L2MenuENG.unity
+    guid: a1e9d976958b107489d54091e314207b
+  - enabled: 1
+    path: Assets/scene/ENG/L3MenuENG.unity
+    guid: 8458306f0f151b9459cf003798a0d1d5
+  - enabled: 1
+    path: Assets/scene/ENG/MenuArmEg.unity
+    guid: bc45f222010c7064498c99be04716c4f
+  - enabled: 1
+    path: Assets/scene/ENG/MenuCoreEg.unity
+    guid: ee34ffe30ac44e2458db7194d5b67d8b
+  - enabled: 1
+    path: Assets/scene/ENG/menuEG.unity
+    guid: fed2fdaf1cc02554987000389931bcbd
+  - enabled: 1
+    path: Assets/scene/ENG/MenuLegEg.unity
+    guid: cca961c911c001a43b0ac04ec69a9ddc
+  - enabled: 1
+    path: Assets/scene/ch2/MenuCoreCh.unity
+    guid: 887ee4f1f3c14954a961bd483f807b15
+  - enabled: 1
+    path: Assets/scene/ch2/MenuLegCh.unity
+    guid: df332ac8d92d27c4bb1d3b4e5a0f1003
+  - enabled: 1
+    path: Assets/scene/ch2/arm/L1ArmBuildCN.unity
+    guid: 3e4abd1fb91110b4f93c6ccd36a378e5
+  - enabled: 1
+    path: Assets/scene/ch2/arm/L1ArmScanCN.unity
+    guid: 865b285eb455e6144a4768baf451964e
+  - enabled: 1
+    path: Assets/scene/ch2/arm/L1ArmWhackCN.unity
+    guid: dde9c3264c9baac469c412685b9920d4
+  - enabled: 1
+    path: Assets/scene/ENG/ARM/L1ArmBuildEG.unity
+    guid: f63a997137a8d884eacb9856b14fca41
+  - enabled: 1
+    path: Assets/scene/ENG/CORE/L1CoreBuildEG.unity
+    guid: 2ca73c5a8b2c9e843b00410315ac0117
+  - enabled: 1
+    path: Assets/scene/ENG/CORE/L1CoreScanEG.unity
+    guid: 3d9242bd6dd8c2e4e889229d99889db6
+  - enabled: 1
+    path: Assets/scene/ENG/CORE/L1CoreWhackEG.unity
+    guid: 710d1d1d21e0da64eafff36579afd5f8
+  - enabled: 1
+    path: Assets/scene/ENG/LEG/L1LegBuildEG.unity
+    guid: 2ade39a9863e7884da0e4e2b7c1cb1af
+  - enabled: 1
+    path: Assets/scene/ENG/LEG/L1LegScanEG.unity
+    guid: 2f4018aac68ed4445aa5dd370ff93eb2
+  - enabled: 1
+    path: Assets/scene/ENG/LEG/L1LegWhackEG.unity
+    guid: 3baf35a01d59b3249b94ad3797c9518a
+  - enabled: 1
+    path: Assets/scene/ENG/ARM/L1ArmScanEG.unity
+    guid: c65da383aae4a8c4195cbcfea501a6ad
+  - enabled: 1
+    path: Assets/scene/ENG/ARM/L1ArmWhackEG.unity
+    guid: 139e0807791994c49882b49a094f3220
+  - enabled: 1
+    path: Assets/scene/L2CH/L2SCH.unity
+    guid: 2f71ff8bc41c8a3439f6bb9e1340eb42
+  - enabled: 1
+    path: Assets/scene/L2EG/L2SEG.unity
+    guid: 6c9a3987c2c72f24b987c22d7a201bbb
+  - enabled: 1
+    path: Assets/scene/L2EG/L2WEG.unity
+    guid: 0fc9380b8eb7a644eba1a8a603461992
+  - enabled: 1
+    path: Assets/scene/L2CH/L2WCH.unity
+    guid: 852ea75ee67051445b1ebf3e44d052ea
+  - enabled: 1
+    path: Assets/scene/L3CH/L3CH.unity
+    guid: 1b20204d48b855445ae3786b1161c49a
+  - enabled: 1
+    path: Assets/scene/L3EG/L3EG.unity
+    guid: e2ce200e104a6a540a3b22aa75858ecb
+  - enabled: 1
+    path: Assets/scene/L3EG/L3WEG.unity
+    guid: ec43c2dcddde6924f9042416bd6b238f
+  - enabled: 1
+    path: Assets/scene/L3CH/L3WCH.unity
+    guid: 616642d8e164e334084f9a523fb96a99
+  m_configObjects: {}
