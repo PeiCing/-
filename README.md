@@ -32,6 +32,8 @@
 
 # PlayGameBtn.cs: 點擊bottom換場景
 
+# 二、選擇語言頁面
+
 ![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/%E9%AA%A8%E9%A0%AD01.PNG)
 ![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/%E9%AA%A8%E9%A0%AD04.PNG)
 ![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/%E9%AA%A8%E9%A0%AD03.PNG)
