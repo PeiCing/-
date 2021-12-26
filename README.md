@@ -4,7 +4,7 @@
 
 # (一) 登入註冊系統
 
-![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/%E9%AA%A8%E9%A0%AD05.PNG)
+![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/%E7%99%BB%E5%85%A5%E8%A8%BB%E5%86%8A%E7%B3%BB%E7%B5%B1.PNG)
 
 # connect.cs: 資料庫連線、登入、讀取使用者資料
   
