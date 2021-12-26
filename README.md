@@ -101,7 +101,7 @@ add(): 顯示按鈕旁邊的”完成”
 
 # (四)、骨骼拼圖
 
-![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/腳步拼圖.png)
+![image](https://github.com/PeiCing/Anatomy-Bone-Game/blob/main/img/腳步拼圖.PNG)
 
 # 玩法: 
 利用滑鼠將骨頭拖移放置到左方人體上，平均分數超過80分為勝利，否則失敗。
